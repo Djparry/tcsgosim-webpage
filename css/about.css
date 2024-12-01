@@ -1,0 +1,100 @@
+#headimg{
+    height: 250px;
+    width: 100%;
+  }
+  
+  .first-section1{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+  }
+  
+  #go-img{
+    border-radius: 10px;
+  }
+  
+  #pro{
+    margin-left: 170px;
+  }
+  
+  #pro2{
+    margin-left: 35px;
+    color: #888986;
+  }
+  
+  #pro3{
+    margin-left: 365px;
+    color: #888986;
+  }
+  
+  #p-about{
+    margin-left: 30px;
+  }
+  
+  #church-about{
+    background-color: #ECECEC; 
+  }
+  
+  .about-fashade{
+    background-color: #ECECEC;
+     border-radius: 10px;
+     width: 90%;
+    margin-left: 57px;
+  }
+  
+  .divp{
+    margin: -1px;
+  }
+  
+  .p1{
+    text-indent: 5em;
+    margin-left: 20px;
+  }
+  
+  .p2{
+    text-indent: 5em;
+    margin-left: 25px;
+  }
+  
+  .p3{
+    text-indent: 1em;
+    margin-left: 10px;
+  }
+  
+  #h2f{
+    margin-left: 350px;
+    padding: 25px;
+  }
+  
+  .mission{
+    width: 70%;
+    background-color: #748490;
+    display: flex;
+      margin-left: 110px;
+    padding: 65px;
+    border-radius: 10px;
+  }
+  
+  .vmargin{
+    margin-left: 100px;
+  }
+  
+  #h2m{
+    margin-left: 40px;
+  }
+  
+  #h2v{
+    margin-left: 37px;
+  }
+  
+  footer{
+    background-color: #494848;
+    height: 150px;
+  }
+  
+  h3{
+    margin-left: 300px;
+    padding: 30px;
+  }
+  
+  
